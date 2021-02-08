@@ -3,8 +3,7 @@
 
 
 
- ![Metrics](https://metrics.lecoq.io/suleymanfatih?template=classic&base.metadata=0&isocalendar=1&languages=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul&config.animated=true)
-
+![Metrics](https://metrics.lecoq.io/suleymanfatih?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&pagespeed=1&isocalendar.duration=half-year&pagespeed.url=http%3A%2F%2Fpnmos.xyz&pagespeed.detailed=false&pagespeed.screenshot=true&config.timezone=Europe%2FIstanbul&config.animated=true)
 
 
 ### 🤝 &nbsp;Connect with Me
