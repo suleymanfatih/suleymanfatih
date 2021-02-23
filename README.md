@@ -1,7 +1,7 @@
 ### Hi There,I'm Süleyman Fatih Şimşek --> [suleymanfatih][https://suleymanfatih.github.io] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https://suleymanfatih.github.io)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/dogmasavar)
+[![Website](https://img.shields.io/website?label=suleymanfatih.github.io&style=for-the-badge&url=https://suleymanfatih.github.io)](https://suleymanfatih.github.io)
+[![Twitter Follow](https://img.shields.io/twitter/follow/suleymanfatih?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/dogmasavar)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
@@ -13,15 +13,15 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/pqcx2qw5tr3a4n5jl4fa58gbk)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="suleymanfatih Spotify Playing" width="350" />](https://open.spotify.com/user/pqcx2qw5tr3a4n5jl4fa58gbk)
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="suleymanfatih.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="suleymanfatih | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="suleymanfatih | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="suleymanfatih | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="suleymanfatih | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -73,7 +73,7 @@
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://suleymanfatih.github.io)
 
 ---
 
@@ -81,11 +81,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-2. 🗣 Commented on [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-3. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🎉 Merged PR [#7](https://github.com/codeSTACKr/free-developer-resources/pull/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🗣 Commented on [#3](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+1. ❗️ Closed issue [#8](https://github.com/suleymanfatih/free-developer-resources/issues/8) in [suleymanfatih/free-developer-resources](https://github.com/suleymanfatih/free-developer-resources)
+2. 🗣 Commented on [#8](https://github.com/suleymanfatih/free-developer-resources/issues/8) in [suleymanfatih/free-developer-resources](https://github.com/suleymanfatih/free-developer-resources)
+3. 🗣 Commented on [#7](https://github.com/suleymanfatih/free-developer-resources/issues/7) in [suleymanfatih/free-developer-resources](https://github.com/suleymanfatih/free-developer-resources)
+4. 🎉 Merged PR [#7](https://github.com/suleymanfatih/free-developer-resources/pull/7) in [suleymanfatih/free-developer-resources](https://github.com/suleymanfatih/free-developer-resources)
+5. 🗣 Commented on [#3](https://github.com/suleymanfatih/codestackr-vscode-theme/issues/3) in [suleymanfatih/codestackr-vscode-theme](https://github.com/suleymanfatih/codestackr-vscode-theme)
 <!--END_SECTION:activity-->
 
 </details>
@@ -93,16 +93,16 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="suleymanfatih's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=suleymanfatih&show_icons=true&hide_border=true" />
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://suleymanfatih.github.io
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/suleymanfatih
+[youtube]: https://youtube.com/suleymanfatih
+[instagram]: https://instagram.com/suleymanfatih
+[linkedin]: https://linkedin.com/in/suleymanfatih
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
