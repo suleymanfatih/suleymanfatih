@@ -49,46 +49,21 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Top Web Dev Videos You NEED to Watch! | STACKr News 2021 (February Week 3)](https://www.youtube.com/watch?v=pQyR71kNTo8)
-- [Top VS Code Updates | v1.53 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=vTf_KPsD0pQ)
-- [Node.js Crash Course for Beginners Tutorial - Learn Node Basics in 30 Minutes!](https://www.youtube.com/watch?v=2LUdnb-mls0)
-- [Top Web Dev Videos You NEED to Watch! | STACKr News 2021 (February Week 2)](https://www.youtube.com/watch?v=V2HUBo0P_BA)
-- [Build a DISCORD Slash Command BOT with Cloudflare Workers!! Deploy FREE!](https://www.youtube.com/watch?v=xRt9PwphmY8)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [What is TempleOS?](https://suleymanfatih.medium.com/temple-os-nedi%CC%87r-77d493faff5f)
+- [What is GNU/Linux Kodachi?](https://suleymanfatih.medium.com/gnu-linux-kodachi-nedir-9120168d2539)
+- [What is GNU/Linux Knoopix?](https://suleymanfatih.medium.com/knoopix-linux-nedir-b0105b706b1e)
+
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://suleymanfatih.github.io)
 
 ---
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/suleymanfatih/free-developer-resources/issues/8) in [suleymanfatih/free-developer-resources](https://github.com/suleymanfatih/free-developer-resources)
-2. 🗣 Commented on [#8](https://github.com/suleymanfatih/free-developer-resources/issues/8) in [suleymanfatih/free-developer-resources](https://github.com/suleymanfatih/free-developer-resources)
-3. 🗣 Commented on [#7](https://github.com/suleymanfatih/free-developer-resources/issues/7) in [suleymanfatih/free-developer-resources](https://github.com/suleymanfatih/free-developer-resources)
-4. 🎉 Merged PR [#7](https://github.com/suleymanfatih/free-developer-resources/pull/7) in [suleymanfatih/free-developer-resources](https://github.com/suleymanfatih/free-developer-resources)
-5. 🗣 Commented on [#3](https://github.com/suleymanfatih/codestackr-vscode-theme/issues/3) in [suleymanfatih/codestackr-vscode-theme](https://github.com/suleymanfatih/codestackr-vscode-theme)
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
