@@ -55,9 +55,9 @@
 
 ### 🎤 My Spotify Podcasts
 
-<!-- PODCAST:START -->
+<!-- PODCAST:START --->
 - [Linux Sohbetleri #1 GNU Linux Nedir?](https://open.spotify.com/episode/1nKYie7fuJhl33zruSRaRt)
-<!-- PODCAST:END -->
+<!-- PODCAST:END --->
 ---
 
 <details>
