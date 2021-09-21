@@ -1,7 +1,7 @@
 ### Hi There,I'm Süleyman Fatih Şimşek  👋
 
 [![Website](https://img.shields.io/website?label=suleymanfatih.github.io&style=for-the-badge&url=https://suleymanfatih.github.io)](https://suleymanfatih.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/dogmasavar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/dogmasavar)
+[![Twitter Follow](https://img.shields.io/twitter/follow/suleymaanfatih?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/suleymaanfatih)
 
 ## I am Linux Developer and YKS student!!
 
