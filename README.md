@@ -2,15 +2,11 @@
 
 [![Website](https://img.shields.io/website?label=suleymanfatih.github.io&style=for-the-badge&url=https://suleymanfatih.github.io)](https://suleymanfatih.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/suleymaanfatih?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/suleymaanfatih)
+### Nextcloud Kurulum Rehberi
 
-## I am Linux Developer and YKS student!!
+İlgili kurulum adımları için aşağıdaki Gist'e göz atabilirsiniz:
 
-- 🔭 I am developing a Linux distribution called PNM OS.: [PNMOS Website][pnmos]
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-
-
+👉 [Nextcloud Cloudflare Tunnel Kurulum Gist](https://gist.github.com/suleymanfatih/b61b6468fa217828d28380c73b5f91a8)
 
 ### Connect with me:
 
