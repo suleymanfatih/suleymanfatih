@@ -2,11 +2,11 @@
 
 [![Website](https://img.shields.io/website?label=suleymanfatih.github.io&style=for-the-badge&url=https://suleymanfatih.github.io)](https://suleymanfatih.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/suleymaanfatih?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/suleymaanfatih)
-### Nextcloud Kurulum Rehberi
+### Github Gist Profile
 
-İlgili kurulum adımları için aşağıdaki Gist'e göz atabilirsiniz:
+Dökümanlarımdaki kurulum adımları için aşağıdaki Gist profilime göz atabilirsiniz:
 
-👉 [Nextcloud Cloudflare Tunnel Kurulum Gist](https://gist.github.com/suleymanfatih/b61b6468fa217828d28380c73b5f91a8)
+👉 [Github Gist Profilim](https://gist.github.com/suleymanfatih)
 
 ### Connect with me:
 
