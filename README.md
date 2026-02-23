@@ -34,25 +34,6 @@
 
 ---
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [TempleOS Nedir?](https://suleymanfatih.medium.com/temple-os-nedi%CC%87r-77d493faff5f)
-- [GNU/Linux Kodachi Nedir?](https://suleymanfatih.medium.com/gnu-linux-kodachi-nedir-9120168d2539)
-- [GNU/Linux Knoopix Nedir?](https://suleymanfatih.medium.com/knoopix-linux-nedir-b0105b706b1e)
-
-<!-- BLOG-POST-LIST:END -->
-
-
----
-
-### 🎤 My Spotify Podcasts
-
-<!-- PODCAST:START --->
-- [Linux Sohbetleri #1 GNU Linux Nedir?](https://open.spotify.com/episode/1nKYie7fuJhl33zruSRaRt)
-<!-- PODCAST:END --->
----
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
